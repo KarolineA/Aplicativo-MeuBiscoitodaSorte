@@ -24,7 +24,7 @@ No desenvolvimento  incrementei um buscador de preferências junto com a parte d
 
  #### Tela de Splash, com duração de 4 segundos;
 
-<img src="C:\projetos\App Meu Biscoito da Sorte\ScreenShot\Splash-Screen.png" alt="Splash-Screen" style="zoom:25%;" />
+<img src="![image](https://user-images.githubusercontent.com/63423338/117519665-e6eb8e00-af7a-11eb-97b0-90954fbc682e.png)" alt="Splash-Screen" style="zoom:25%;" />
 
 
 
@@ -114,11 +114,11 @@ No desenvolvimento  incrementei um buscador de preferências junto com a parte d
 
 
 
-#### 
 
 
 
-### Tela de Cadastro contém áreas para o usuário inserir seus dados: nome, email, senha com um spinner para escolher um elemento. Essas informações são usadas para o usuário  se cadastrar no aplicativo;
+
+#### Tela de Cadastro contém áreas para o usuário inserir seus dados: nome, email, senha com um spinner para escolher um elemento. Essas informações são usadas para o usuário  se cadastrar no aplicativo;
 
 <img src="C:\projetos\App Meu Biscoito da Sorte\ScreenShot\Cadastro-Screen.png" alt="Cadastro-Screen" style="zoom:25%;" />
 
